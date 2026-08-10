@@ -1,0 +1,5 @@
+build/
+windos.elf
+windos.iso
+iso/
+*.o
